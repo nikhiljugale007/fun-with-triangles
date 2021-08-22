@@ -1,7 +1,7 @@
 Fun with Triangles
 ============
 
-## Live link : https://app.netlify.com/sites/fun-with-triangles-react-app/overview
+## Live link : https://fun-with-triangles-react-app.netlify.app
 ## About
 - Enter three angles of triangle check weather it can form a triangle.
 - Area of trinagle: From base and height calculate area of tringle
